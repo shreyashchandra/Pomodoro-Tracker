@@ -8,6 +8,6 @@
 - User can assigne task to each slot of the pomodoro
 - User can track there progress on the dashboard
 
-### Schmea of the project [https://app.eraser.io/workspace/5BAsWynIIHflO7bh9gJU ]
+### Schmea of the project [https://app.eraser.io/workspace/jP6BPBXuVbQ2NfiZLMZd?origin=share]
 
 ### Design & Built By - Twitter [@shreyashchandra] [@sakshamkataria7]
