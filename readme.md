@@ -10,4 +10,4 @@
 
 ### Schmea of the project [https://app.eraser.io/workspace/jP6BPBXuVbQ2NfiZLMZd?origin=share]
 
-### Design & Built By - Twitter [@shreyashchandra] [@sakshamkataria7]
+### Design & Built By - [@shreyashchandra] [@sakshamkataria7] [rashi12122001]
