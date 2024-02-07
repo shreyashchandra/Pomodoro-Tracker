@@ -17,7 +17,7 @@ const Clock = () => {
 
     let intervalId = setInterval(() => {
       setSecond((prevSecond) => {
-        if (prevSecond === 9) {
+        if (prevSecond === 59) {
           setMinute((prevMinute) => prevMinute + 1);
           return 0;
         } else {
